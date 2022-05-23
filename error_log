@@ -1,0 +1,1 @@
+[24-Jul-2018 07:19:14 UTC] PHP Parse error:  syntax error, unexpected '"d-M-Y"' (T_CONSTANT_ENCAPSED_STRING) in /home/u5062208/public_html/damas/application/views/admin/detilmhs.php on line 111
